@@ -20,4 +20,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 Please check my channel https://www.youtube.com/@IntegratorDima for the description of what is doing on in this repo.
 
 1. Easiest way to integrate user's avatar with Gravatar service - https://youtu.be/WGGdusu6oPc;
+2. 5 ways to add country flag icons to your app - https://youtu.be/Zyp_GUiJvRI;
+
 See in action in this app on http://localhost:3000/Gravatar.
